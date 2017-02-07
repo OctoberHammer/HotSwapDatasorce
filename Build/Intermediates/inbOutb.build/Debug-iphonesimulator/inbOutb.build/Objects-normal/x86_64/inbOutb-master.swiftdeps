@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d3306f6cb729cd8d4b07da08aeb16909"
+build_time: [539785457, 379120000]
+inputs:
+  "/Users/octoberhammer/Developer/inbOutb/inbOutb/AppDelegate.swift": [539783698, 0]
+  "/Users/octoberhammer/Developer/inbOutb/inbOutb/InOutTableViewController.swift": [539785457, 0]
+  "/Users/octoberhammer/Developer/inbOutb/inbOutb/ItemCell.swift": [539784916, 0]
